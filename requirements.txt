@@ -1,2 +1,5 @@
-a
-
+aiogram==3.29.0
+supabase==2.31.0
+apscheduler==3.10.4
+python-dotenv==1.0.1
+httpx>=0.28.0
