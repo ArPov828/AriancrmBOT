@@ -3,5 +3,5 @@ builder = "nixpacks"
 
 [deploy]
 startCommand = "python3 main.py"
-restartPolicyType = "always"
+restartPolicyType = "never"
 restartPolicyMaxRetries = 10
