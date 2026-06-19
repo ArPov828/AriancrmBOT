@@ -1,7 +1,1 @@
-[build]
-builder = "nixpacks"
-
-[deploy]
-startCommand = "python3 main.py"
-restartPolicyType = "never"
-restartPolicyMaxRetries = 10
+sdf
